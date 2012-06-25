@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3a579a11-5da7-4211-8671-21eed3229bfc" name="mhurtado@YOCASTA 2012-06-25 12:50:58" runUser="DEVELOPMENT\mhurtado" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="783fbb92-17d2-4770-97b9-4a9f3d3cf025">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="mhurtado_YOCASTA 2012-06-25 12_50_58">
+      <DeploymentItem filename="C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Kata002\bin\Debug\Kata002.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-25T12:50:58.7099967-05:00" queuing="2012-06-25T12:51:00.3269967-05:00" start="2012-06-25T12:51:00.5109967-05:00" finish="2012-06-25T12:52:16.7139967-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="2" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="YOCASTA" outcome="Error" timestamp="2012-06-25T12:52:16.7019967-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="pintarminaTest" storage="c:\users\mhurtado\desktop\kata01-mickey\kata002\test_minas\bin\debug\test_minas.dll" id="9d6f3f4e-c8c5-ba67-97b3-afec6c7f3f07">
+      <Execution id="719a9099-16ea-489e-8ecb-173f0f16892b" />
+      <TestMethod codeBase="C:/Users/mhurtado/Desktop/Kata01-Mickey/Kata002/Test_Minas/bin/Debug/Test_Minas.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test_Minas.ProgramTest, Test_Minas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="pintarminaTest" />
+    </UnitTest>
+    <UnitTest name="inicializarmatrizTest" storage="c:\users\mhurtado\desktop\kata01-mickey\kata002\test_minas\bin\debug\test_minas.dll" id="03a6c41c-65e0-f01c-ebea-30c16b57aeff">
+      <Execution id="9baddc99-56ad-45fa-bcad-c7a3ce7a0eff" />
+      <TestMethod codeBase="C:/Users/mhurtado/Desktop/Kata01-Mickey/Kata002/Test_Minas/bin/Debug/Test_Minas.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test_Minas.ProgramTest, Test_Minas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="inicializarmatrizTest" />
+    </UnitTest>
+    <UnitTest name="sumarTest" storage="c:\users\mhurtado\desktop\kata01-mickey\kata002\test_minas\bin\debug\test_minas.dll" id="5561c439-459f-0de6-c811-a0fe40ad59de">
+      <Execution id="20fa4734-10bc-4d03-848b-f17e22fc49da" />
+      <TestMethod codeBase="C:/Users/mhurtado/Desktop/Kata01-Mickey/Kata002/Test_Minas/bin/Debug/Test_Minas.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test_Minas.ProgramTest, Test_Minas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="sumarTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="03a6c41c-65e0-f01c-ebea-30c16b57aeff" executionId="9baddc99-56ad-45fa-bcad-c7a3ce7a0eff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d6f3f4e-c8c5-ba67-97b3-afec6c7f3f07" executionId="719a9099-16ea-489e-8ecb-173f0f16892b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5561c439-459f-0de6-c811-a0fe40ad59de" executionId="20fa4734-10bc-4d03-848b-f17e22fc49da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9baddc99-56ad-45fa-bcad-c7a3ce7a0eff" testId="03a6c41c-65e0-f01c-ebea-30c16b57aeff" testName="inicializarmatrizTest" computerName="YOCASTA" duration="00:01:16.0640000" startTime="2012-06-25T12:51:00.6419967-05:00" endTime="2012-06-25T12:52:16.7059967-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9baddc99-56ad-45fa-bcad-c7a3ce7a0eff">
+    </UnitTestResult>
+    <UnitTestResult executionId="719a9099-16ea-489e-8ecb-173f0f16892b" testId="9d6f3f4e-c8c5-ba67-97b3-afec6c7f3f07" testName="pintarminaTest" computerName="YOCASTA" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="719a9099-16ea-489e-8ecb-173f0f16892b">
+    </UnitTestResult>
+    <UnitTestResult executionId="20fa4734-10bc-4d03-848b-f17e22fc49da" testId="5561c439-459f-0de6-c811-a0fe40ad59de" testName="sumarTest" computerName="YOCASTA" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20fa4734-10bc-4d03-848b-f17e22fc49da">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,5 @@
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Kata002\bin\Debug\Kata002.exe
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Kata002\bin\Debug\Kata002.pdb
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Kata002\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Kata002\obj\x86\Debug\Kata002.exe
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Kata002\obj\x86\Debug\Kata002.pdb

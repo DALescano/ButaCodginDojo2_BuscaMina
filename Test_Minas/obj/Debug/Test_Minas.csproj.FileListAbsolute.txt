@@ -1,0 +1,7 @@
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\bin\Debug\Test_Minas.dll
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\bin\Debug\Test_Minas.pdb
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\bin\Debug\Kata002.exe
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\bin\Debug\Kata002.pdb
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\obj\Debug\Test_Minas.dll
+C:\Users\mhurtado\Desktop\Kata01-Mickey\Kata002\Test_Minas\obj\Debug\Test_Minas.pdb
